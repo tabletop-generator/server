@@ -7,6 +7,7 @@ docker/
 docs/
 node_modules/
 tests/
+terraform/
 !tests/.htpasswd
 .env*
 .gitignore
