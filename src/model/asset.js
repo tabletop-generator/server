@@ -258,5 +258,5 @@ async function deleteAsset(assetUuid) {
 
 module.exports.save = saveAsset;
 module.exports.get = getAsset;
-module.exports.delete = deleteAsset;
+module.exports.deleteAsset = deleteAsset;
 module.exports.schema = fullSchema;
